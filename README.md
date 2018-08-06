@@ -8,10 +8,10 @@ Patterns close to one another in the input space should be close to one another 
 
 This implementation uses a random set of 3 dimensional data. Every data point consists of rgb values. The SOM is used to generate a topological ordering according to the colors of the data point.
 
-![Initial state of the data points](som_init_state.png)
+![Initial state of the data points](som_init_state.png "Initial state of the data points")
 
 
-![Final state of the data points](som_final_state.png)
+![Final state of the data points](som_final_state.png "Final state of the data points")
 
 
 ## Dependencies
