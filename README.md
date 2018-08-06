@@ -20,4 +20,5 @@ This implementation uses a random set of 3 dimensional data. Every data point co
 
 ## Reference
 [1]. Beale, Russell, and Tom Jackson. Neural Computing-an introduction. CRC Press, 1990.
+
 [2]. Kohonen, Teuvo. "The self-organizing map." Proceedings of the IEEE 78.9 (1990): 1464-1480.
